@@ -211,7 +211,7 @@ Through this project, I developed skills in:
 
 ## 🤝 Get in Touch
 
-**I'm Mohit Raj — a Data Analyst based in Bhopal, Madhya Pradesh, India.**
+**I'm Mohit Raj — a Data Analyst based in Indore, Madhya Pradesh, India.**
 
 I'm actively looking for **Data Analyst, BI Analyst, or Data Visualization roles** where I can use my Power BI, DAX, and data storytelling skills.
 
@@ -228,8 +228,6 @@ I'm actively looking for **Data Analyst, BI Analyst, or Data Visualization roles
 **⭐ If this project is helpful, please give this repository a star!**
 
 **📌 Skills Demonstrated**: Power BI | DAX | Data Modeling | Power Query | Data Visualization | Supply Chain Analytics | Business Intelligence
-
-**💼 Perfect for**: Data Analyst Roles | BI Analyst Positions | Data Visualization Jobs | Portfolio Showcase
 
 Made with ❤️ by **Mohit Raj** — Indore, India
 
