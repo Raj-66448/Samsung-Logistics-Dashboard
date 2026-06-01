@@ -4,13 +4,6 @@
 
 **Interactive Power BI dashboard for supply chain analytics, inventory management, and logistics tracking — built as a portfolio project for Data Analyst roles**
 
-[
-[
-[
-[
-
-**👋 Hi! I'm Mohit Raj — a Data Analyst based in Indore, India. This project showcases my Power BI, DAX, and data visualization skills.**
-
 </div>
 
 ***
@@ -58,6 +51,9 @@ Supply chain managers need to answer critical questions:
 **My Solution**: Built an interactive Power BI dashboard that answers all these questions with real-time visuals, slicers, and drill-down capabilities .
 
 ***
+
+<img width="1326" height="731" alt="Power BI Desktop 01-06-2026 14_44_35" src="https://github.com/user-attachments/assets/56aa11a8-8d74-4cc1-ad48-53d67dbbe6d4" />
+
 
 ## ✨ Solution & Key Features
 
